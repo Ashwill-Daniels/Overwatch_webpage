@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h3 {
+    background-color: aquamarine;
+}
+
+div {
+    display: inline-block;
+    padding-bottom: 55px;
+}
+
+img {
+    height: 200px;
+}
+
